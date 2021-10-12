@@ -38,9 +38,6 @@ C:\Users\MINEDUCYT\Desktop\Ludwin\Operaciones_Basicas\OperacionesBasicas\Operaci
 C:\Users\MINEDUCYT\Desktop\Ludwin\Operaciones_Basicas\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.exe
 C:\Users\MINEDUCYT\Desktop\Ludwin\Operaciones_Basicas\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.pdb
 C:\Users\MINEDUCYT\Desktop\Ludwin\Operaciones_Basicas\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.csproj.AssemblyReference.cache
-C:\Users\MINEDUCYT\Desktop\Ludwin\Operaciones_Basicas\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.Vistas.FrmDivision.resources
-C:\Users\MINEDUCYT\Desktop\Ludwin\Operaciones_Basicas\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.Vistas.FrmMultiplicacion.resources
-C:\Users\MINEDUCYT\Desktop\Ludwin\Operaciones_Basicas\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.Vistas.FrmResta.resources
 C:\Users\MINEDUCYT\Desktop\Ludwin\Operaciones_Basicas\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.FrmSuma.resources
 C:\Users\MINEDUCYT\Desktop\Ludwin\Operaciones_Basicas\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.Properties.Resources.resources
 C:\Users\MINEDUCYT\Desktop\Ludwin\Operaciones_Basicas\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.csproj.GenerateResource.cache
